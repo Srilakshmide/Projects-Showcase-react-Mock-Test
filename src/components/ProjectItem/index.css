@@ -1,0 +1,23 @@
+.project-card {
+  width: 250px;
+  height: 250px;
+  background-color: #ffffff;
+  box-shadow: 0 6px 20px 0 rgba(180, 176, 176, 0.19);
+  border-radius: 12px;
+  margin: 20px 13px;
+}
+
+.image {
+  width: 250px;
+  height: 180px;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 20px;
+  color: #475569;
+}
